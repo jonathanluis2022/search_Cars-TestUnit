@@ -24,4 +24,4 @@ O objetivo principal desse sistema é permitir que o usuário busque informaçõ
 
 1. **Clone o repositório**:
    bash
-   git clone <URL-do-repositório>
+   git clone [<URL-do-repositório>](https://github.com/jonathanluis2022/search_Cars-TestUnit)
