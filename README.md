@@ -14,7 +14,7 @@ O objetivo principal desse sistema é permitir que o usuário busque informaçõ
 - **Acesso a informações**: O sistema oferece informações detalhadas sobre os carros, como marca, modelo e ano, diretamente de uma API confiável.
 - **Simples e eficiente**: O sistema é simples de usar, com uma interface limpa e fácil de navegar.
 
-## O Sistema foi criado no padrao MVC dividindo tarefas que facilitara na manutenção :
+## O Sistema foi criado no padrão MVC dividindo tarefas que facilitara na manutenção :
 
 - **CarController**: Controla a lógica de interação com a view e o modelo.
 - **CarModel**: Faz a busca na API e retorna os resultados filtrados.
